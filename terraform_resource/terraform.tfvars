@@ -3,6 +3,7 @@ subscription_id = "xxxxxx"
 ## Pre Defined KV for storing secret
 devKV_Name         = "iac-test"       #### We have to change as per env
 
+# shubham ji kya bata rahe hai
 ## VNET - SUBNET
 rg_Name            = "Demo-Test" ## We have to change as per env
 location           = "eastus2"
